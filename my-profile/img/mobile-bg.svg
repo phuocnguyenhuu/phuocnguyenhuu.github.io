@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 355 678">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(125,77,253,0.52);
+      }
+
+      .cls-4 {
+        fill: #d1dafc;
+      }
+
+      .cls-5 {
+        fill: rgba(191,13,254,0.6);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="mobile-bg" class="cls-1" width="355" height="678" transform="translate(10 68)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.203" y1="1" x2="1" y2="0.456" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#958aff"/>
+      <stop offset="1" stop-color="#6ba6ff"/>
+    </linearGradient>
+  </defs>
+  <g id="mobile-bg-2" data-name="mobile-bg" class="cls-2" transform="translate(-10 -68)">
+    <g id="mobileBg">
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="8.281" cy="8.281" r="8.281" transform="translate(263.001 240.557)"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-4" cx="10.352" cy="10.352" r="10.352" transform="translate(51.553 115.386)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-5" cx="6.211" cy="6.211" r="6.211" transform="translate(143.002 496.62)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-6" d="M1438,760s42.056-28.127,87.12-45.627,81.231.533,120.036,6.783,89.171-20.549,98.969-80.237,48.875-57.8,48.875-57.8V760Z" transform="translate(-1428 -14)"/>
+    </g>
+  </g>
+</svg>
