@@ -127,7 +127,7 @@ body {
 }
 
 .bulb-glow-yellow {
-	background-image: url('bulb_yellow.png');
+	background-image: url('bulb_yellow.PNG');
 	-webkit-animation: bulb_glow_yellow linear 5s;
 	-moz-animation: bulb_glow_yellow linear 5s;
 	-o-animation: bulb_glow_yellow linear 5s;
@@ -144,7 +144,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('bulb_yellow.PNG');
 		opacity: 1;
 	}
 }
@@ -170,7 +170,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('bulb_yellow.PNG');
 		opacity: 1;
 	}
 }
@@ -183,7 +183,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('bulb_yellow.PNG');
 		opacity: 1;
 	}
 }
@@ -196,7 +196,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_yellow.png');
+		background-image: url('bulb_yellow.PNG');
 		opacity: 1;
 	}
 }
@@ -469,7 +469,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('bulb_pink.PNG');
 		opacity: 1;
 	}
 }
@@ -482,7 +482,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('bulb_pink.PNG');
 		opacity: 1;
 	}
 }
@@ -495,7 +495,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('bulb_pink.png');
+		background-image: url('bulb_pink.PNG');
 		opacity: 1;
 	}
 }
@@ -732,7 +732,7 @@ body {
 		background-image: url('bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('bulb_blue.PNG');
 	}
 	100%{
 		background-image: url('bulb.png');
@@ -743,7 +743,7 @@ body {
 		background-image: url('bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('bulb_blue.PNG');
 	}
 	100%{
 		background-image: url('bulb.png');
@@ -754,7 +754,7 @@ body {
 		background-image: url('bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('bulb_blue.PNG');
 	}
 	100%{
 		background-image: url('bulb.png');
@@ -765,7 +765,7 @@ body {
 		background-image: url('bulb.png');
 	}
 	50%{
-		background-image: url('bulb_blue.png');
+		background-image: url('bulb_blue.PNG');
 	}
 	100%{
 		background-image: url('bulb.png');
